@@ -1,5 +1,4 @@
 type IMusic = {
-  toLowerCase(): unknown;
   Artist: string;
   musicTitle: string;
   music: string;
